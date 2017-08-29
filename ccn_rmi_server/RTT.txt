@@ -1,0 +1,11 @@
+
+send /ccn/waseda/gotolab/news2011 1381986894147
+send /ccn/waseda/gotolab/news2013 1381987048584
+1381988482203 sent /ccn/waseda/gotolab/news2013
+1381993183198 sent /ccn/waseda/gotolab/news2013
+1381993513392 sent /ccn/waseda/gotolab/news2014
+1381994254222 sent /ccn/waseda/gotolab/news2012
+1382004002327 sent /ccn/waseda/gotolab/news2013
+1382063320539 sent /ccn/waseda/gotolab/news2013
+1382063986396 sent /ccn/waseda/gotolab/new2013
+1382064005019 sent /ccn/waseda/gotolab/news2013
